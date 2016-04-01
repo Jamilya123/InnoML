@@ -20,7 +20,7 @@ Added task 1a: kaggle [Salary class prediction competition](https://inclass.kagg
 
 due 12.04
 
-Added task 1a: digits classification
+Added task 1b: digits classification
 
 due 11.04
 
