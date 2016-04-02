@@ -1,3 +1,0 @@
-Register in kaggle with innopolis e-mail and try to upload any submission in the competition https://inclass.kaggle.com/c/income-level-prediction.
-
-You can use <sample submission-all zeroes.csv> file  from here: https://inclass.kaggle.com/c/income-level-prediction/data
