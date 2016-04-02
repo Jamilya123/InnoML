@@ -10,11 +10,11 @@ Additional information on the course material is available on [wiki](https://git
 
 ##Announcements
 
-April 2 lectures will be during: 9-00 - 10-30, 10-40 - 12-10, 15-00 -16-30, 16-40 - 18-10.
+Next lessons will be on April 15, 16.
 
-Added microtask (basic python skills)
+Added theoretical task 1 
 
-**Assignement for testing python skills is due 02.04.2016a nd should be sent to v.v.kitov(at)yandex.ru** titled Innopolis [your name] [your surname] - python basics.
+due 11.04.
 
 Added task 1a: kaggle [Salary class prediction competition](https://inclass.kaggle.com/c/income-level-prediction)
 
