@@ -1,0 +1,26 @@
+Final submission.
+At the end of the competition you will be asked to select your best submission, which will then be evaluated on the test set unseen during the competition. What you see now are the results on the validation set (also unknown to you). This is done to avoid overfitting to the validation set.
+
+The score for the kaggle assignement will be composed of two parts: accuracy and presentation.
+
+Before April 12 23:59 excpet submitting to kaggle you need to send me jupiter notebook or python code with your solution - I will check that the code was not copied among you. Hovewer you are free to use any public libraries and modules. Also you need to attach presentation describing your solution.
+
+Presentation should have the following structure:
+1) Your best model description
+- how you prepared your data
+- which features you chose
+- which new features you generated
+- which model you selected
+- how you evaluated the quality of your model
+2) Graphs that visualize interesting data insights which helped you to select this particular solution.
+3) which other data preprocessing you tried? What other features and models you tried? And provide table with accuracy metrics that these alternative approaches gave you.
+
+50% of the grade will be evaluated by the scaled accuracy of your solution:
+grade = (<your accuracy>-<baseline method accuracy>) / (<max achieved accuracy> - <baseline method accuracy>).
+
+Baseline method accuracy will be announced later.
+
+Another 50% of the grade will be evaluated by the quality of you presentation - how many interesting data insights you found? How many methods you tried? How complete was your parameter optimization? Did you try using some interesting feature transformations?
+
+Wish you good luck and have fun with machine learning!
+Victor.
