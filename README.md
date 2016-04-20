@@ -2,6 +2,9 @@
 
 ##Announcements
 
+Added lecture "Working with text" with recommendations for the competition.
+Also consider [scikit-learn useful text functions](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html).
+
 Next data prediction competiton [is available](https://kaggle.com/join/salary_prediction_innopolis) - you may start! Have fun!
 
 due 24.04.
