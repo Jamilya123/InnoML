@@ -5,6 +5,7 @@
 * Added lecture "Working with text" with recommendations for the competition. Also consider [scikit-learn useful text functions](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html).
 * Added lecture slides for regression.
 * Added theoretical task 2 (due April 27 23:59)
+* Added exam questions for the exam that will be held during the nearest machine learning lecture on April 29 (Friday). Bachelors are also welcome to participate.
 
 ---
 
