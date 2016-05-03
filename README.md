@@ -2,10 +2,17 @@
 
 ##Announcements
 
-* Added lecture "Working with text" with recommendations for the competition. Also consider [scikit-learn useful text functions](http://scikit-learn.org/stable/tutorial/text_analytics/working_with_text_data.html).
-* Added lecture slides for regression.
-* Added theoretical task 2 (due April 27 23:59)
-* Added exam questions for the exam that will be held during the nearest machine learning lecture on April 29 (Friday). Bachelors are also welcome to participate.
+* Final scores and grades are filled in [the last column of the grades report] (https://docs.google.com/spreadsheets/d/1iJRtSRhY6rFqlDR2w0WRyme7AvJE0ODEthbMCFkAwfE/edit?usp=sharing)
+* Please fill (anonymous feedback form about the course)[https://docs.google.com/forms/d/1whqK0jbsp7fSLpXmyt1AtLFaPugczOBx_imuBVjFTaw/viewform]
+* Please join the newly created group of all students who graduated from my machine learning course in [vkontakte](https://vk.com/ml_alumni).
+* If you want to improve your grades, you can participate in some [active kaggle competition](https://www.kaggle.com/competitions) and before 23:59 May 17 send me presentation with your solution and code. Your grade will be increased (C->B, B->A) if I see that you worked thourougly with data, specifically if I see in your presentation:
+  * your best algorithm
+  * alternative algorithms that you tried
+  * your best set of features
+  * other kinds of features that you tried
+  * interesting visualizations about the data or algorithm performance.
+  * your reasoning why some approaches worked and other - didn't
+* Participation in kaggle competition I suggest in the following way - you select a "supervisor" from those students, who received >89% score and use their advice. Hovewer, its their right, not obligation to help you, because they already have A grade.
 
 ---
 
