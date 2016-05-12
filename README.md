@@ -2,7 +2,6 @@
 
 ##Announcements
 
-* Final scores and grades are filled in [the last column of the grades report] (https://docs.google.com/spreadsheets/d/1iJRtSRhY6rFqlDR2w0WRyme7AvJE0ODEthbMCFkAwfE/edit?usp=sharing)
 * Please fill [anonymous feedback form about the course](https://docs.google.com/forms/d/1whqK0jbsp7fSLpXmyt1AtLFaPugczOBx_imuBVjFTaw/viewform)
 * Please join the newly created group of all students who graduated from my machine learning course in [vkontakte](https://vk.com/ml_alumni).
 * If you want to improve your grades, you can participate in some [active kaggle competition](https://www.kaggle.com/competitions) and before 23:59 May 17 send me presentation with your solution and code. Your grade will be increased (C->B, B->A) if I see that you worked thourougly with data, specifically if I see in your presentation:
