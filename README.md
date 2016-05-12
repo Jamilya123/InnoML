@@ -37,10 +37,6 @@ Added theoretical task 1
 
 due 11.04.
 
-##Grades
-
-[View grades](https://docs.google.com/spreadsheets/d/1iJRtSRhY6rFqlDR2w0WRyme7AvJE0ODEthbMCFkAwfE/edit?usp=sharing)
-
 ##Setup
 
 [Download python anaconda distribution](https://www.continuum.io/downloads)
