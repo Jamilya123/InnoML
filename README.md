@@ -1,5 +1,19 @@
 # innopolis
 
+##Grading criteria
+
+assignments = 50%
+
+• 30% kaggle (10%+10%+10%)
+
+• 20% homeworks
+
+exam = 50%
+
+• oral=25%
+
+• written=25%
+
 ##Setup
 
 [Download python anaconda distribution](https://www.continuum.io/downloads)
